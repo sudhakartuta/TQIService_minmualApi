@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TQIService", "TQIService\TQIService.csproj", "{363FF5B9-E600-4428-A96C-0B7B596A63C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{D167A718-8592-4865-B9B1-74AD54027EA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{363FF5B9-E600-4428-A96C-0B7B596A63C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{363FF5B9-E600-4428-A96C-0B7B596A63C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{363FF5B9-E600-4428-A96C-0B7B596A63C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{363FF5B9-E600-4428-A96C-0B7B596A63C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D167A718-8592-4865-B9B1-74AD54027EA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D167A718-8592-4865-B9B1-74AD54027EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D167A718-8592-4865-B9B1-74AD54027EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D167A718-8592-4865-B9B1-74AD54027EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C8A8CF9-5E93-4C47-AA7E-540AC944BE2A}
+	EndGlobalSection
+EndGlobal

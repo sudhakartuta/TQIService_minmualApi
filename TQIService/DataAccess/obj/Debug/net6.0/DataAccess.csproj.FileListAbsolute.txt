@@ -1,0 +1,14 @@
+C:\Sudhakar\Projects\TQIService\Minimal\TQIService\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Sudhakar\Projects\TQIService\Minimal\TQIService\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sudhakar\Projects\TQIService\Minimal\TQIService\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Sudhakar\Projects\TQIService\Minimal\TQIService\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Sudhakar\Projects\TQIService\Minimal\TQIService\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Sudhakar\Projects\TQIService\Minimal\TQIService\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Sudhakar\Projects\TQIService\Minimal\TQIService\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Sudhakar\Projects\TQIService\Minimal\TQIService\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Sudhakar\Projects\TQIService\Minimal\TQIService\DataAccess\bin\Debug\net6.0\ref\DataAccess.dll
+C:\Sudhakar\Projects\TQIService\Minimal\TQIService\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Sudhakar\Projects\TQIService\Minimal\TQIService\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Sudhakar\Projects\TQIService\Minimal\TQIService\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Sudhakar\Projects\TQIService\Minimal\TQIService\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Sudhakar\Projects\TQIService\Minimal\TQIService\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
