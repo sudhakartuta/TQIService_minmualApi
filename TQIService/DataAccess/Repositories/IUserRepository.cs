@@ -14,5 +14,6 @@ namespace DataAccess.Repositories
         public Task<User> SaveUser(User user);
         public Task<bool> DeleteUser(int ID);
         public Task<bool> UpdateUser(User user);
+        public Task<User> Login(string userName, string password);
     }
 }

@@ -133,5 +133,26 @@ namespace DataAccess.Repositories
                 return false;
             }
         }
+
+        public async Task<User> Login(string userName, string password)
+        {
+            User user = new User();
+
+            if (userName == null || password == null)
+                return user;
+            _logger.LogInformation("Calling Login() method");
+            try
+            {
+               user= await _Context.Users.FirstOrDefaultAsync(r=>r.Username==userName && r.Password==password);
+                return user;
+            }
+            catch (Exception ex)
+            {
+
+                _logger.LogError("Error in DeleteUser() method", ex.Message);
+                return user;
+            }
+
+        }
     }
 }

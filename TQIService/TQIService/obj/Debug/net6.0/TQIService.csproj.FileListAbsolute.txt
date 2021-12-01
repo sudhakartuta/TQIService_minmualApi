@@ -75,3 +75,5 @@ C:\Sudhakar\Projects\TQIService\Minimal\TQIService\TQIService\bin\Debug\net6.0\r
 C:\Sudhakar\Projects\TQIService\Minimal\TQIService\TQIService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Sudhakar\Projects\TQIService\Minimal\TQIService\TQIService\bin\Debug\net6.0\DataAccess.dll
 C:\Sudhakar\Projects\TQIService\Minimal\TQIService\TQIService\bin\Debug\net6.0\DataAccess.pdb
+C:\Sudhakar\Projects\TQIService\Minimal\TQIService\TQIService\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Sudhakar\Projects\TQIService\Minimal\TQIService\TQIService\obj\Debug\net6.0\TQIService.MvcApplicationPartsAssemblyInfo.cs
