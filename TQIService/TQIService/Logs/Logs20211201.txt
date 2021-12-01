@@ -1,0 +1,6 @@
+15:00 [Information]  - Message: Calling GetAllUsers() method
+15:01 [Information]  - Message: Calling Login() method
+15:01 [Information]  - Message: Calling Login() method
+15:02 [Information]  - Message: Calling Login() method
+15:03 [Information]  - Message: Calling Login() method
+15:04 [Information]  - Message: Calling Login() method
